@@ -1,4 +1,4 @@
 # MyAlgorithms
 
-Alguns pequenos aleatórios.
-Guardados aqui, para não desaparecerem.
+Alguns pequenos e aleatórios algoritmos.
+Guardados aqui para não desaparecerem.
